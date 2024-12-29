@@ -47,4 +47,4 @@ A web-based job portal where users can search and browse job listings. The site 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/job-portal.git
+   git clone https://github.com/Nishnat14/Job-curator.git
